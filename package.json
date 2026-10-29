@@ -1,0 +1,21 @@
+{
+  "name": "fathima-fidha-pk-portfolio",
+  "version": "1.0.0",
+  "description": "Production-grade portfolio for Fathima Fidha PK - Aspiring Penetration Tester & CSE Undergraduate",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "cybersecurity",
+    "offensive-security",
+    "penetration-testing",
+    "jcet",
+    "tinkerhub",
+    "asap-mentor"
+  ],
+  "author": "Fathima Fidha PK",
+  "license": "MIT"
+}
+
